@@ -10,6 +10,7 @@ keyboards+=(keyball39)
 keyboards+=(keyball44)
 keyboards+=(keyball46)
 keyboards+=(keyball61)
+keyboards+=(keyball61_pimoroni)
 keyboards+=(one47)
 
 keymaps=()
