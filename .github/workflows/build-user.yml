@@ -11,6 +11,7 @@ on:
         - keyball39
         - keyball44
         - keyball61
+        - keyball61_pimoroni
         - keyball46
         - one47
       keymap:
